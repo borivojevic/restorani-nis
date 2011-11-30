@@ -1,4 +1,4 @@
-Lista restorana za narucivanje hrane u Nisu
+Restorani za narucivanje hrane u Nisu
 ===========================================
 
 Picerije
