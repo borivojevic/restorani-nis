@@ -6,7 +6,7 @@ Picerije
 
 * MBN (dostava) Tel. 018-4201-777
 * La Strega (dostava) Tel. 018-29-2222
-* GoGo (dostava se naplacuje dodatno) Tel.
+* GoGo (dostava se naplacuje dodatno) Tel. 018-510-122
 * Geppetto (dostava) Tel. 018-278-188 i 060-408-55-55
 * Kuhinjica (dostava) Tel. 018-261-000
 
