@@ -8,11 +8,13 @@ Picerije
 * La Strega (dostava) Tel. 018-29-2222
 * GoGo (dostava se naplacuje dodatno) Tel.
 * Geppetto (dostava) Tel. 018-278-188 i 060-408-55-55
+* Kuhinjica (dostava) Tel. 018-261-000
 
 Restorani
 ---------
 
 * Casa di Pasta (dostava) - Italijanska hrana, Tel. 018-29-2223
+* Sorento (dostava) - Tel. 018-532-618
 
 Ostalo
 -------
