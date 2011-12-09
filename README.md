@@ -15,6 +15,7 @@ Restorani
 
 * Casa di Pasta (dostava) - Italijanska hrana, Tel. 018-29-2223
 * Sorento (dostava) - Tel. 018-532-618
+* [Riva][] (dostava) - Tel. 018/523-200, 063/414-965 
 
 Ostalo
 -------
@@ -22,3 +23,5 @@ Ostalo
 * Wiener Wurst (naruci i pokupi) - Becke kobasice, Tel. 018-310-5011 (obavezan pozivni broj)
 * Kluzo (naruci i pokupi) - Palacinke, tostevi, Tel. 069-34-50-330
 * Goldys (dostava) - Giros, grcka hrana, Tel. 018-517-108
+
+[Riva]: http://www.riva.rs
