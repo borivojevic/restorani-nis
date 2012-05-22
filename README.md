@@ -16,6 +16,7 @@ Restorani
 * Casa di Pasta (dostava) - Italijanska hrana, Tel. 018-29-2223
 * Sorento (dostava) - Tel. 018-532-618
 * [Riva][] (dostava) - Tel. 018/523-200, 063/414-965 
+* [Pleasure][] (naruci i sedi) - Tel. 018-517-551 i 062-254-315
 
 Ostalo
 -------
@@ -25,3 +26,4 @@ Ostalo
 * Goldys (dostava) - Giros, grcka hrana, Tel. 018-517-108
 
 [Riva]: http://www.riva.rs
+[Pleasure]: http://www.pleasure.rs
