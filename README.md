@@ -5,15 +5,25 @@ Picerije
 -------
 
 * MBN (dostava) Tel. 018-4201-777
+ * Meni:
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/mbn/mbn-1.jpg "Strana 1") |
+[2](https://raw.github.com/borivojevic/restorani-nis/master/menu/mbn/mbn-2.jpg "Strana 2")
 * La Strega (dostava) Tel. 018-29-2222
+ * Meni:
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/la-strega/la-strega-2.jpg "Strana 1")
 * GoGo (dostava se naplacuje dodatno) Tel. 018-510-122
 * Geppetto (dostava) Tel. 018-278-188 i 060-408-55-55
+ * Meni:
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/gepetto/gepetto-1.jpg "Strana 1") |
+[2](https://raw.github.com/borivojevic/restorani-nis/master/menu/gepetto/gepetto-2.jpg "Strana 2")
 * Kuhinjica (dostava) Tel. 018-261-000
 
 Restorani
 ---------
 
-* Casa di Pasta (dostava) - Italijanska hrana, Tel. 018-29-2223
+* Casa di Pasta (La Strega) (dostava) - Italijanska hrana, Tel. 018-29-2223
+ * Meni:
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/la-strega/la-strega-2.jpg "Strana 1")
 * Sorento (dostava) - Tel. 018-532-618
 * [Riva][] (dostava) - Tel. 018/523-200, 063/414-965 
 * [Pleasure][] (naruci i sedi) - Tel. 018-517-551 i 062-254-315
@@ -32,7 +42,12 @@ Ostalo
 
 * Wiener Wurst (naruci i pokupi) - Becke kobasice, Tel. 018-310-5011 (obavezan pozivni broj)
 * Kluzo (naruci i pokupi) - Palacinke, tostevi, Tel. 069-34-50-330
-* Goldys (dostava) - Giros, grcka hrana, Tel. 018-517-108
+ * Meni:
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/kluzo/kluzo.jpg "Strana 1")
+* Goldys Vozdova (dostava) - Giros, grcka hrana, Tel. 018-517-108
+ * Meni:
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/goldys-vozdova/goldys-1.jpg "Strana 1") |
+[2](https://raw.github.com/borivojevic/restorani-nis/master/menu/goldys-vozdova/goldys-2.jpg "Strana 2")
 
 [Riva]: http://www.riva.rs
 [Pleasure]: http://www.pleasure.rs
