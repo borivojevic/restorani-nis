@@ -17,6 +17,10 @@ Picerije
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/gepetto/gepetto-1.jpg "Strana 1") |
 [2](https://raw.github.com/borivojevic/restorani-nis/master/menu/gepetto/gepetto-2.jpg "Strana 2")
 * Kuhinjica (dostava) Tel. 018-261-000
+* Ciao (dostava uskoro) Tel. 061-214-93-25
+ * Meni:
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/ciao/ciao-1.jpg "Strana 1") |
+[2](https://raw.github.com/borivojevic/restorani-nis/master/menu/ciao/ciao-2.jpg "Strana 2")
 
 Restorani
 ---------
