@@ -44,7 +44,6 @@ Restorani
 Ostalo
 -------
 
-* Wiener Wurst (naruci i pokupi) - Becke kobasice, Tel. 018-310-5011 (obavezan pozivni broj)
 * Kluzo (naruci i pokupi) - Palacinke, tostevi, Tel. 069-34-50-330
  * Meni:
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/kluzo/kluzo.jpg "Strana 1")
