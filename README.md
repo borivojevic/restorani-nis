@@ -1,4 +1,4 @@
-Restorani za narucivanje hrane u Nisu
+Restorani za naručivanje hrane u Nišu
 ===========================================
 
 Picerije
@@ -44,7 +44,7 @@ Restorani
 Ostalo
 -------
 
-* Kluzo (naruci i pokupi) - Palacinke, tostevi, Tel. 069-34-50-330
+* Kluzo (naruči i pokupi) - Palacinke, tostevi, Tel. 069-34-50-330
  * Meni:
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/kluzo/kluzo.jpg "Strana 1")
 * Goldys Vozdova (dostava) - Giros, grcka hrana, Tel. 018-517-108
