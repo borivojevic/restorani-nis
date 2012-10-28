@@ -10,7 +10,8 @@ Picerije
 [2](https://raw.github.com/borivojevic/restorani-nis/master/menu/mbn/mbn-2.jpg "Strana 2")
 * La Strega (dostava) Tel. 018-29-2222
  * Meni:
-[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/la-strega/la-strega-2.jpg "Strana 1")
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/la-strega/lastrega-1.jpg "Strana 1") |
+[2](https://raw.github.com/borivojevic/restorani-nis/master/menu/la-strega/lastrega-2.jpg "Strana 2")
 * GoGo (dostava se naplacuje dodatno) Tel. 018-510-122
 * Geppetto (dostava) Tel. 018-278-188 i 060-408-55-55
  * Meni:
