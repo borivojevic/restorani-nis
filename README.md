@@ -41,6 +41,10 @@ Restorani
 [6](https://raw.github.com/borivojevic/restorani-nis/master/menu/pleasure/pleasure-6.jpg "Strana 6") |
 [7](https://raw.github.com/borivojevic/restorani-nis/master/menu/pleasure/pleasure-7.jpg "Strana 7")
 * Caffe Lagano (naruci i sedi) - Tel. 064-80-58-890
+* Shangri-La - Kineska hrana, Tel. 018-248-204
+ * Meni:
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/shangri-la/shangri-la-1.jpg "Strana 1") |
+[2](https://raw.github.com/borivojevic/restorani-nis/master/menu/shangri-la/shangri-la-2.jpg "Strana 2")
 
 Ostalo
 -------
