@@ -32,7 +32,7 @@ Restorani
  * Meni:
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/la-strega/la-strega-2.jpg "Strana 1")
 * Sorento (dostava) - Tel. 018-532-618
-* [Riva][] (dostava) - Tel. 018/523-200, 063/414-965 
+* [Riva][] (dostava) - Tel. 018/523-200, 063/414-965
 * [Pleasure][] (naruci i sedi) - Tel. 018-517-551 i 062-254-315
  * Meni:
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/pleasure/pleasure-1.jpg "Strana 1") |
@@ -54,6 +54,9 @@ Ostalo
 * Kluzo (naruči i pokupi) - Palacinke, tostevi, Tel. 069-34-50-330
  * Meni:
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/kluzo/kluzo.jpg "Strana 1")
+* Pink Panter (dostava) Tel. 018-288-800
+ * Meni:
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/pink-panter/pink-panter-1.jpg "Strana 1")
 * Goldys Vozdova (dostava) - Giros, grcka hrana, Tel. 018-517-108
  * Meni:
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/goldys-vozdova/goldys-1.jpg "Strana 1") |
