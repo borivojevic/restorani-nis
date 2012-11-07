@@ -12,7 +12,7 @@ Picerije
  * Meni:
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/la-strega/lastrega-1.jpg "Strana 1") |
 [2](https://raw.github.com/borivojevic/restorani-nis/master/menu/la-strega/lastrega-2.jpg "Strana 2")
-* GoGo (dostava se naplacuje dodatno) Tel. 018-510-122
+* GoGo (dostava je besplatna) Tel. 018-510-122
  * Meni:
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/gogo/gogo.png "Strana 1")
 * Geppetto (dostava) Tel. 018-278-188 i 060-408-55-55
