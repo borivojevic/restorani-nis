@@ -24,6 +24,10 @@ Picerije
  * Meni:
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/ciao/ciao-1.jpg "Strana 1") |
 [2](https://raw.github.com/borivojevic/restorani-nis/master/menu/ciao/ciao-2.jpg "Strana 2")
+* [Halo Capri][] (dostava) Tel. 018-225-180 i 063-401-404
+ * Meni:
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/halo-capri/halo-capri-1.jpg "Strana 1") |
+[2](https://raw.github.com/borivojevic/restorani-nis/master/menu/halo-capri/halo-capri-2.jpg "Strana 2")
 
 Restorani
 ---------
@@ -65,3 +69,4 @@ Ostalo
 
 [Riva]: http://www.riva.rs
 [Pleasure]: http://www.pleasure.rs
+[Halo Capri]: http://www.hallocapri.com
