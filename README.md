@@ -34,7 +34,7 @@ Restorani
 
 * Casa di Pasta (La Strega) (dostava) - Italijanska hrana, Tel. 018-29-2223
  * Meni:
-[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/la-strega/la-strega-2.jpg "Strana 1")
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/la-strega/lastrega-2.jpg "Strana 1")
 * Sorento (dostava) - Tel. 018-532-618
 * [Riva][] (dostava) - Tel. 018/523-200, 063/414-965
 * [Pleasure][] (naruci i sedi) - Tel. 018-517-551 i 062-254-315
