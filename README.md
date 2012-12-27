@@ -49,6 +49,18 @@ Restorani
 * Caffe Lagano (naruci i sedi) - Tel. 064-80-58-890
 * Shangri-La - Kineska hrana, Tel. 018-248-204
  * Meni:
+[1](https://github.com/zorglub76/restorani-nis/raw/master/menu/shangri-la/shangri-la-full-01.jpg "Strana 1") |
+[2](https://github.com/zorglub76/restorani-nis/raw/master/menu/shangri-la/shangri-la-full-02.jpg "Strana 2") |
+[3](https://github.com/zorglub76/restorani-nis/raw/master/menu/shangri-la/shangri-la-full-03.jpg "Strana 3") |
+[4](https://github.com/zorglub76/restorani-nis/raw/master/menu/shangri-la/shangri-la-full-04.jpg "Strana 4") |
+[5](https://github.com/zorglub76/restorani-nis/raw/master/menu/shangri-la/shangri-la-full-05.jpg "Strana 5") |
+[6](https://github.com/zorglub76/restorani-nis/raw/master/menu/shangri-la/shangri-la-full-06.jpg "Strana 6") |
+[7](https://github.com/zorglub76/restorani-nis/raw/master/menu/shangri-la/shangri-la-full-07.jpg "Strana 7") |
+[8](https://github.com/zorglub76/restorani-nis/raw/master/menu/shangri-la/shangri-la-full-08.jpg "Strana 8") |
+[9](https://github.com/zorglub76/restorani-nis/raw/master/menu/shangri-la/shangri-la-full-09.jpg "Strana 9") |
+[10](https://github.com/zorglub76/restorani-nis/raw/master/menu/shangri-la/shangri-la-full-10.jpg "Strana 10") |
+[11](https://github.com/zorglub76/restorani-nis/raw/master/menu/shangri-la/shangri-la-full-11.jpg "Strana 11")
+ * Popusti:
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/shangri-la/shangri-la-1.jpg "Strana 1") |
 [2](https://raw.github.com/borivojevic/restorani-nis/master/menu/shangri-la/shangri-la-2.jpg "Strana 2")
 
