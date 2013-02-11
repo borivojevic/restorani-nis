@@ -28,7 +28,7 @@ Picerije
  * Meni:
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/halo-capri/halo-capri-1.jpg "Strana 1") |
 [2](https://raw.github.com/borivojevic/restorani-nis/master/menu/halo-capri/halo-capri-2.jpg "Strana 2")
-* [Night and day] (dostava je besplatna za narudzbine preko 500din) Tel. 018-244-396
+* [Night and day][] (dostava je besplatna za narudzbine preko 500din) Tel. 018-244-396
 
 
 Restorani
