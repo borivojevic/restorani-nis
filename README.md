@@ -20,16 +20,14 @@ Picerije
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/gepetto/gepetto-1.jpg "Strana 1") |
 [2](https://raw.github.com/borivojevic/restorani-nis/master/menu/gepetto/gepetto-2.jpg "Strana 2")
 * Kuhinjica (dostava) Tel. 018-261-000
-* Ciao (dostava je besplatna) Tel. 061-214-93-25
- * Meni:
-[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/ciao/ciao-1.jpg "Strana 1") |
-[2](https://raw.github.com/borivojevic/restorani-nis/master/menu/ciao/ciao-2.jpg "Strana 2")
 * [Halo Capri][] (dostava) Tel. 018-225-180 i 063-401-404
  * Meni:
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/halo-capri/halo-capri-1.jpg "Strana 1") |
 [2](https://raw.github.com/borivojevic/restorani-nis/master/menu/halo-capri/halo-capri-2.jpg "Strana 2")
-* [Night and day][] (dostava je besplatna za narudzbine preko 500din) Tel. 018-244-396
-
+* [Night and day][] (dostava je besplatna za narudzbine preko 500din) Tel. 018-244-396 i 061-22-44-442
+ * Meni:
+[1](https://raw.github.com/borivojevic/restorani-nis/master/menu/night-and-day/night-and-day-1.jpg "Strana 1") |
+[2](https://raw.github.com/borivojevic/restorani-nis/master/menu/night-and-day/night-and-day-2.jpg "Strana 2")
 
 Restorani
 ---------
