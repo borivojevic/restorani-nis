@@ -78,6 +78,8 @@ Ostalo
 [1](https://raw.github.com/borivojevic/restorani-nis/master/menu/goldys-vozdova/goldys-1.jpg "Strana 1") |
 [2](https://raw.github.com/borivojevic/restorani-nis/master/menu/goldys-vozdova/goldys-2.jpg "Strana 2")
 * Mjau Mjau (dostava) - Sendvici i pice, Tel. 062368628
+* Novopazarski ćevap deset upola (dostava) - Tel. 063-7077901
+ * [Meni](https://raw.github.com/borivojevic/restorani-nis/master/menu/novopazarski-cevap/novopazarski-cevap.jpg "Strana 1")
 
 [Riva]: http://www.riva.rs
 [Pleasure]: http://www.pleasure.rs
